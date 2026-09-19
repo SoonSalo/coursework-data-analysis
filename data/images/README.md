@@ -19,4 +19,4 @@
 * `4 (Person)` — силуэт человека (рабочего) целиком
 
 ## Ссылка для скачивания
-[GitHub: aashwika25/PPE_Detection_YOLO](https://github.com)
+https://github.com/aashwika25/PPE_Detection_YOLO/tree/main
