@@ -15,4 +15,4 @@
 * `A:` — официальный регламентированный текст ответа автоматической справочной системы
 
 ## Ссылка для скачивания
-[GitHub: Koziev/NLP_Datasets (Папка QA)](https://github.com)
+https://github.com/Koziev/NLP_Datasets
