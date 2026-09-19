@@ -19,4 +19,4 @@
 * `mass_flow_true` — истинный эталонный массовый расход с поверочного оборудования (целевая переменная, кг/с)
 
 ## Ссылка для скачивания
-[Kaggle: Coriolis Flowmeter Two-Phase Data](https://kaggle.com)
+https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction
