@@ -20,4 +20,4 @@
 * `charges` — годовые медицинские расходы (целевая переменная)
 
 ## Ссылка для скачивания
-[Kaggle: Medical Insurance Price Prediction](https://kaggle.com)
+https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction
